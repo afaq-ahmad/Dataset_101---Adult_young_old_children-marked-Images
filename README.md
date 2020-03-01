@@ -15,3 +15,6 @@ Tagged images of the following classes:
    #### *o	child_young
       
       	Anyone that looks between the ages of 0 to 4
+      
+      
+![sample Image](samples.jpg)
