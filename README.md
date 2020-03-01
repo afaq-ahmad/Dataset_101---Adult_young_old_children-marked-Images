@@ -4,17 +4,19 @@ Dataset of Adult young old children Dataset
 
 Tagged images of the following classes:
    
-   #### *o	adult
+   #### *	adult
    
       	Anyone that looks over the age of 18
 
-   #### *o	child_old
+   #### *	child_old
       
       	Anyone that looks between the ages of 4 to 17
 
-   #### *o	child_young
+   #### *	child_young
       
       	Anyone that looks between the ages of 0 to 4
       
       
 ![sample Image](samples.jpg)
+
+Email me If you need this dataset [afaq.ahmad100@gmail.com](afaq.ahmad100@gmail.com)
